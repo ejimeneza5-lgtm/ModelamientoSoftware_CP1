@@ -1,17 +1,27 @@
-# ModelamientoSoftware_CP1
-Estudiante: Erick Jimenez Caso de Estudio: Sistema Logistick
+# Modelamiento de Software - CP1
 
-Relación de Diagramas Incluidos
+**Estudiante:** Erick Sebastián Jimenez Andaluz
+**Caso de estudio:** Sistema de gestión de almacenes LogiStock
+**Asignatura:** Modelamiento de Software
+**Universidad:** Universidad Estatal de Milagro (UNEMI)
 
-TPE1:
-Diagrama de Casos de Uso
-TPE2:
-Diagrama de Secuencia
-Diagrama de Comunicación
-Organización del Repositorio
-TPE1/: Archivos editables / enlaces de Lucidchart y diagramas exportados del TPE1.
+## Descripción del sistema
 
-TPE2/: Archivos editables / enlaces de Lucidchart y diagramas exportados del TPE2.
+Sistema de gestión de almacenes que optimiza y automatiza las operaciones logísticas mediante control de inventario en tiempo real, trazabilidad de mercancías e integración con lectores de códigos de barras/RFID. Incluye control de acceso por roles, acoplamiento con plataformas externas de transporte y alertas de stock mínimo.
+
+## Relación de diagramas
+
+- **TPE1:**
+  - Diagrama de Casos de Uso
+- **TPE2:**
+  - Diagrama de Secuencia
+  - Diagrama de Comunicación
+
+## Organización del repositorio
+
+- `TPE1/`: archivos editables, enlaces y diagramas exportados del TPE1.
+- `TPE2/`: archivos editables, enlaces y diagramas exportados del TPE2.
+- `README.md`: documentación general del proyecto.
 
 ###LINKS
 
